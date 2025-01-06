@@ -75,8 +75,6 @@ print(counter)
 
 
 #PART 2
-import itertools
-import operator
 
 class Node():
     def __init__(self, value, result_value):
